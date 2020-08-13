@@ -1,6 +1,9 @@
 import sublime
 import sublime_plugin
 
+# Makes code-folding safer, backspace unfolds code  
+# Taken from StackOverflow 
+# https://stackoverflow.com/questions/41460907/is-there-a-way-to-set-the-fold-symbol-in-sublimetext-read-only
 
 class UnfoldBeforeCommand(sublime_plugin.TextCommand):
     def run(self, edit):
