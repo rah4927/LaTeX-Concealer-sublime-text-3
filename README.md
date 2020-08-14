@@ -28,4 +28,4 @@ If you want to edit the files as your own, here is a brief explanation of the fi
 ## Shortcomings 
 
 1. No real-time sync 
-2. I haven't hardcoded behviour of ```\text{}, \frac{}, \dfrac{}``` yet  
+2. I haven't hardcoded behviour of ```\text{}, \frac{}{}, \dfrac{}{}``` yet  
